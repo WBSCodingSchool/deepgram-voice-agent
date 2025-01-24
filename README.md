@@ -82,3 +82,4 @@ project, let us know! You can either:
 - [Join the Deepgram Discord Community](https://discord.gg/xWRaCDBtW4)
 
 [license]: LICENSE.txt
+
